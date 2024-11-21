@@ -276,14 +276,15 @@ Feel free to **clone** this project, **contribute** improvements, or **report is
  # 👨‍💻 Author: **Rakesh D**  
 
 ### 🔹 **Role**: Full Stack Python Developer & Database Architect  
-### 🔹 **Affiliation**: Founder, Rare Techiez  
+### 🔹 **Affiliation**: Founder, Rare Techiez, Rare Syntax
 
 ---
 
 ### 📫 **Contact Information**  
 - **Email**: [rakeshd992002@gmail.com](mailto:rakeshd992002@gmail.com)  
 - **GitHub**: [rocket-raki](https://github.com/rocket-raki)  
-- **LinkedIn**: [Rakesh D Reddy](https://www.linkedin.com/in/rakesh-d-reddy)  
+- **LinkedIn**: [Rakesh D Reddy](https://www.linkedin.com/in/rakesh-d-reddy)
+- **RareSyntax**:[RareSyntax](https://rocket-raki.github.io/raresyntax)
 
 ---
 
