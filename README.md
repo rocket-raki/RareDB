@@ -284,7 +284,7 @@ Feel free to **clone** this project, **contribute** improvements, or **report is
 - **Email**: [rakeshd992002@gmail.com](mailto:rakeshd992002@gmail.com)  
 - **GitHub**: [rocket-raki](https://github.com/rocket-raki)  
 - **LinkedIn**: [Rakesh D Reddy](https://www.linkedin.com/in/rakesh-d-reddy)
-- **RareSyntax**: [RareSyntax](https://rocket-raki.github.io/raresyntax)
+- **Website**: [RareSyntax](https://rocket-raki.github.io/raresyntax)
 
 ---
 
