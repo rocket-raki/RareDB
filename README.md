@@ -270,3 +270,37 @@ RareDB is designed to:
 ---
 
 Feel free to **clone** this project, **contribute** improvements, or **report issues** via the GitHub repository. RareDB simplifies data storage like never before! 🚀
+
+ ---
+
+ # 👨‍💻 Author: **Rakesh D**  
+
+### 🔹 **Role**: Full Stack Python Developer & Database Architect  
+### 🔹 **Affiliation**: Founder, Rare Techiez  
+
+---
+
+### 📫 **Contact Information**  
+- **Email**: [rakeshd992002@gmail.com](mailto:rakeshd992002@gmail.com)  
+- **GitHub**: [rocket-raki](https://github.com/rocket-raki)  
+- **LinkedIn**: [Rakesh D Reddy](https://www.linkedin.com/in/rakesh-d-reddy)  
+
+---
+
+### 🛠️ **Key Contributions**  
+- **RareLang**: Designed a custom programming language focused on **simplicity** and **efficiency** for database querying.  
+- **RareDB**: Developed **RareDB**, a lightweight, flexible database with a **book-page-line-word** hierarchy for streamlined data management.  
+- **Documentation**: Authored in-depth **documentation** and **tutorials** to empower developers using RareDB and RareLang.  
+
+---
+
+### 💡 **Expertise & Skills**  
+- **Languages**: Python, JavaScript, SQL, NoSQL, RareLang  
+- **Technologies**: Django, Flask, Full-stack Development, Database Architecture  
+- **Specializations**: Programming Language Design, System Optimization, Technical Writing  
+
+---
+
+### 👥 **Collaborations & Credits**  
+- Worked closely with the **Rare Techiez** team for testing, debugging, and performance enhancements.  
+- Inspired by **NoSQL**/RDBMS for database simplicity and **custom scripting languages** for unique query handling.
