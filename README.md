@@ -10,7 +10,7 @@ We are excited to announce that **RareDB**, a lightweight and flexible database 
 Stay connected and be the first to explore RareDB upon its release!
 
 **Follow us** for updates:  
-- GitHub: [rocket-raki](https://github.com/
+- GitHub: [rocket-raki](https://github.com/rocket-raki)
 
 ---
 
