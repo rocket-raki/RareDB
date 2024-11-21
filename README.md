@@ -1,3 +1,16 @@
+## 🚀 **RareDB - Coming Soon!**  
+
+We are excited to announce that **RareDB**, a lightweight and flexible database designed for simplicity and efficiency, will be launching very soon! Stay tuned for more updates as we prepare to bring this innovative solution to developers worldwide.
+
+### Key Features:
+- **Book-Page-Line-Word Hierarchy** for seamless data management.
+- **Easy Integration** into your applications.
+- **Comprehensive Documentation** and tutorials to help you get started quickly.
+
+Stay connected and be the first to explore RareDB upon its release!
+
+**Follow us** for updates:  
+- GitHub: [rocket-raki](https://github.com/
 
 ---
 
