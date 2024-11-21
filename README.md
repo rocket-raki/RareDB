@@ -296,8 +296,8 @@ Feel free to **clone** this project, **contribute** improvements, or **report is
 
 ### 💡 **Expertise & Skills**  
 - **Languages**: Python, JavaScript, SQL, NoSQL, RareLang  
-- **Technologies**: Django, Flask, Full-stack Development, Database Architecture  
-- **Specializations**: Programming Language Design, System Optimization, Technical Writing  
+- **Technologies**: Django, Flask, Full-stack Development, Database Architecture, Thunder 
+- **Specializations**: Programming Language Design, Datsbase Management SystemDesign, Technical Writing  
 
 ---
 
