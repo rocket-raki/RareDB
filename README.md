@@ -303,4 +303,4 @@ Feel free to **clone** this project, **contribute** improvements, or **report is
 
 ### 👥 **Collaborations & Credits**  
 - Worked closely with the **Rare Techiez** team for testing, debugging, and performance enhancements.  
-- Inspired by **NoSQL**/RDBMS for database simplicity and **custom scripting languages** for unique query handling.
+- Inspired by **NoSQL/RDBMS** for database simplicity and **custom scripting languages** for unique query handling.
