@@ -131,15 +131,132 @@
       <p>
         We are excited to announce that <strong>RareXDB</strong>, a lightweight and flexible database designed for simplicity and efficiency, will be launching very soon! Stay tuned for more updates as we prepare to bring this innovative solution to developers worldwide.
       </p>
+
       <h3>Key Features:</h3>
       <ul>
         <li><strong>Book-Page-Line-Word Hierarchy</strong> for seamless data management.</li>
         <li><strong>Easy Integration</strong> into your applications.</li>
         <li><strong>Comprehensive Documentation</strong> and tutorials to help you get started quickly.</li>
       </ul>
+
       <p>
         Stay connected and be the first to explore RareXDB upon its release!
       </p>
+
+      <h2>RareXDB Documentation</h2>
+      <p>
+        RareXDB is a lightweight database prototype designed for simplicity, flexibility, and intuitive usage. Inspired by a hierarchical structure, it organizes data into <strong>Books</strong>, <strong>Pages</strong>, <strong>Lines</strong>, and <strong>Words</strong>, making data management straightforward and efficient.
+      </p>
+
+      <h3>📚 Table of Contents</h3>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#core-concepts">Core Concepts</a></li>
+        <li><a href="#basic-syntax">Basic Syntax</a></li>
+        <li><a href="#operations">Operations</a></li>
+        <ul>
+          <li><a href="#1-activate-or-create-a-book">Activate or Create a Book</a></li>
+          <li><a href="#2-write-data">Write Data</a></li>
+          <li><a href="#3-read-data">Read Data</a></li>
+          <li><a href="#4-rewrite-data">Rewrite Data</a></li>
+          <li><a href="#5-erase-delete-data">Erase/Delete Data</a></li>
+        </ul>
+        <li><a href="#examples">Examples</a></li>
+        <li><a href="#error-handling">Error Handling</a></li>
+        <li><a href="#author">Author</a></li>
+      </ul>
+
+      <h3>🌟 Overview</h3>
+      <p>
+        RareXDB is built on a simple hierarchy:
+      </p>
+      <pre><code>
+        book_name: {
+          page_name: {
+            line1: word1,
+            line2: word2
+          }
+        };
+      </code></pre>
+
+      <h3>🔑 Core Concepts</h3>
+      <ul>
+        <li><strong>Books:</strong> The highest level of data storage (e.g., <code>college</code>).</li>
+        <li><strong>Pages:</strong> A logical grouping within a book (e.g., <code>class</code>).</li>
+        <li><strong>Lines:</strong> Attributes or columns in a page (e.g., <code>student_id</code>, <code>age</code>).</li>
+        <li><strong>Words:</strong> Values stored within lines (e.g., <code>1</code>, <code>20</code>).</li>
+      </ul>
+
+      <h3>💻 Basic Syntax</h3>
+      <p>RareXDB operations follow a simple command structure:</p>
+      <pre><code>
+        book_name.page_name.operation({parameters});
+      </code></pre>
+
+      <h3>🛠️ Operations</h3>
+
+      <h4>1. Activate or Create a Book</h4>
+      <p>Switch to or create a new database (book).</p>
+      <pre><code>
+        book_name.activate;
+      </code></pre>
+      <h4>2. Write Data</h4>
+      <p>Add new lines (fields) and their corresponding words (values) to a page.</p>
+      <pre><code>
+        book_name.page_name.write({line1: word1, line2: word2});
+      </code></pre>
+
+      <h4>3. Read Data</h4>
+      <p>Retrieve data from a page based on conditions.</p>
+      <pre><code>
+        book_name.page_name.read({});
+      </code></pre>
+
+      <h4>4. Rewrite Data</h4>
+      <p>Update existing data or add new fields.</p>
+      <pre><code>
+        book_name.page_name.rewrite({line: word}, {line_updates});
+      </code></pre>
+
+      <h4>5. Erase/Delete Data</h4>
+      <p>Remove data from a page.</p>
+      <pre><code>
+        book_name.page_name.erase({line: word});
+      </code></pre>
+
+      <h3>🔍 Examples</h3>
+      <h4>1. Create or Switch a Database</h4>
+      <pre><code>
+        library.activate;
+      </code></pre>
+
+      <h4>2. Add Data to a Page</h4>
+      <pre><code>
+        library.books.write({title: "1984", author: "George Orwell", year: 1949});
+        library.books.write({title: "Brave New World", author: "Aldous Huxley", year: 1932});
+      </code></pre>
+
+      <h4>3. Retrieve Data</h4>
+      <pre><code>
+        library.books.read({});
+      </code></pre>
+
+      <h4>4. Update Data</h4>
+      <pre><code>
+        library.books.rewrite({title: "1984"}, {year: 1950});
+      </code></pre>
+
+      <h4>5. Delete Data</h4>
+      <pre><code>
+        library.books.erase({title: "1984"});
+      </code></pre>
+
+      <h3>🚨 Error Handling</h3>
+      <p>If you encounter any issues while using RareXDB, please refer to our <a href="#documentation">documentation</a> or contact us for support.</p>
+
+      <h3>📝 Author</h3>
+      <p>RareXDB is developed and maintained by Rakesh D, a passionate software engineer and founder of RareXTechiez.</p>
+
       <button class="btn" onclick="followUs()">Follow Us for Updates</button>
     </div>
   </main>
