@@ -1,6 +1,6 @@
-## 🚀 **RareDB - Coming Soon!**  
+## 🚀 **RareXDB - Coming Soon!**  
 
-We are excited to announce that **RareDB**, a lightweight and flexible database designed for simplicity and efficiency, will be launching very soon! Stay tuned for more updates as we prepare to bring this innovative solution to developers worldwide.
+We are excited to announce that **RareXDB**, a lightweight and flexible database designed for simplicity and efficiency, will be launching very soon! Stay tuned for more updates as we prepare to bring this innovative solution to developers worldwide.
 
 ### Key Features:
 - **Book-Page-Line-Word Hierarchy** for seamless data management.
@@ -14,9 +14,9 @@ Stay connected and be the first to explore RareDB upon its release!
 
 ---
 
-# **RareDB Documentation**
+# **RareXDB Documentation**
 
-RareDB is a lightweight database prototype designed for simplicity, flexibility, and intuitive usage. Inspired by a hierarchical structure, it organizes data into **Books**, **Pages**, **Lines**, and **Words**, making data management straightforward and efficient.
+RareXDB is a lightweight database prototype designed for simplicity, flexibility, and intuitive usage. Inspired by a hierarchical structure, it organizes data into **Books**, **Pages**, **Lines**, and **Words**, making data management straightforward and efficient.
 
 ---
 
@@ -38,7 +38,7 @@ RareDB is a lightweight database prototype designed for simplicity, flexibility,
 
 ## **🌟 Overview**
 
-RareDB is built on a simple hierarchy:
+RareXDB is built on a simple hierarchy:
 
 | **RareDB Term** | **Equivalent Concept** | **Description**                          |
 |------------------|------------------------|------------------------------------------|
@@ -48,7 +48,7 @@ RareDB is built on a simple hierarchy:
 | **Word**         | Row/Value              | Actual data stored under a line.        |
 
 ### **Hierarchical Structure**  
-RareDB organizes data as:  
+RareXDB organizes data as:  
 ```plaintext
 book_name: {
     page_name: {
@@ -71,7 +71,7 @@ book_name: {
 
 ## **💻 Basic Syntax**
 
-RareDB operations follow a simple command structure:
+RareXDB operations follow a simple command structure:
 ```plaintext
 book_name.page_name.operation({parameters});
 ```
@@ -275,21 +275,21 @@ library.books.rewrite({title: "1984"}, {year: 1950});
 
 ## **💡 Design Philosophy**
 
-RareDB is designed to:
+RareXDB is designed to:
 1. **Simplify** database management with intuitive commands.  
 2. **Adapt** to lightweight and educational use cases.  
 3. **Deliver** a hierarchical structure that enhances readability.  
 
 ---
 
-Feel free to **clone** this project, **contribute** improvements, or **report issues** via the GitHub repository. RareDB simplifies data storage like never before! 🚀
+Feel free to **clone** this project, **contribute** improvements, or **report issues** via the GitHub repository. RareXDB simplifies data storage like never before! 🚀
 
  ---
 
  # 👨‍💻 Author: **Rakesh D**  
 
 ### 🔹 **Role**: Full Stack Python Developer & Database Architect  
-### 🔹 **Affiliation**: Founder, Rare Techiez, Rare Syntax
+### 🔹 **Affiliation**: Founder, RareXtechiez, Rare Syntax
 
 ---
 
@@ -303,18 +303,18 @@ Feel free to **clone** this project, **contribute** improvements, or **report is
 
 ### 🛠️ **Key Contributions**  
 - **RareLang**: Designed a custom programming language focused on **simplicity** and **efficiency** for database querying.  
-- **RareDB**: Developed **RareDB**, a lightweight, flexible database with a **book-page-line-word** hierarchy for streamlined data management.  
-- **Documentation**: Authored in-depth **documentation** and **tutorials** to empower developers using RareDB and RareLang.  
+- **RareXDB**: Developed **RareXDB**, a lightweight, flexible database with a **book-page-line-word** hierarchy for streamlined data management.  
+- **Documentation**: Authored in-depth **documentation** and **tutorials** to empower developers using RareXDB and RareXLang.  
 
 ---
 
 ### 💡 **Expertise & Skills**  
-- **Languages**: Python, JavaScript, SQL, NoSQL, RareLang  
+- **Languages**: Python, JavaScript, SQL, NoSQL, RareXLang  
 - **Technologies**: Django, Flask, Full-stack Development, Database Architecture, Thunder 
 - **Specializations**: Programming Language Design, Datsbase Management SystemDesign, Technical Writing  
 
 ---
 
 ### 👥 **Collaborations & Credits**  
-- Worked closely with the **Rare Techiez** team for testing, debugging, and performance enhancements.  
-- Inspired by **NoSQL/RDBMS** for database simplicity and **custom scripting languages** for unique query handling.
+- Worked closely with the **RareXtechiez** team for testing, debugging, and performance enhancements.  
+- Inspired by **NoSQL/RDBMS/OODBM** for database simplicity and **custom scripting languages** for unique query handling.
