@@ -40,7 +40,7 @@ RareXDB is a lightweight database prototype designed for simplicity, flexibility
 
 RareXDB is built on a simple hierarchy:
 
-| **RareDB Term** | **Equivalent Concept** | **Description**                          |
+| **RareXDB Term** | **Equivalent Concept** | **Description**                          |
 |------------------|------------------------|------------------------------------------|
 | **Book**         | Database               | Top-level data container.               |
 | **Page**         | Table/Collection       | Subset of a book, containing structured data. |
