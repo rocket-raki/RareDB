@@ -33,7 +33,7 @@ RareDB is a lightweight database prototype designed for simplicity, flexibility,
   - [Erase/Delete Data](#5-erase-delete-data)  
 - [Examples](#-examples)  
 - [Error Handling](#-error-handling)  
-
+- [Author](#-author)
 ---
 
 ## **🌟 Overview**
